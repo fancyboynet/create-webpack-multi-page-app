@@ -1,0 +1,25 @@
+{
+  "name": "create-webpack-multi-page-app",
+  "version": "0.0.2",
+  "description": "Create a multiple pages app by running one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fancyboynet/create-webpack-multi-page-app.git"
+  },
+  "keywords": [
+    "webpack",
+    "multiple",
+    "page"
+  ],
+  "author": "Fancy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "github-download": "^0.5.0",
+    "shelljs": "^0.8.2"
+  }
+}
