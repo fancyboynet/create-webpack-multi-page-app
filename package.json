@@ -1,6 +1,6 @@
 {
   "name": "create-webpack-multi-page-app",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create a \"multiple-page\" app by running one command",
   "main": "index.js",
   "bin": "./bin/create-webpack-multi-page-app.js",

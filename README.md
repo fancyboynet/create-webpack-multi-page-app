@@ -2,5 +2,5 @@
 ```
 npx create-webpack-multi-page-app myapp
 cd myapp
-npm start
+yarn run start
 ```
